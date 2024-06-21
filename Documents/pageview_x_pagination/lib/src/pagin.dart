@@ -102,7 +102,7 @@ class _PaginState extends State<Pagin> {
                       color: colors,
                     ),
                     child: Center(
-                      child: Text('hello world $item'),
+                      child: Text('hello world $tem'),
                     ),
                   );
                 },
